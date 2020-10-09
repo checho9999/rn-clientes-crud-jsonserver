@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Cesar",
+      "telefono": "55667788",
+      "correo": "che@gmail.com",
+      "empresa": "saraza",
+      "id": 1
+    },
+    {
+      "nombre": "pichito",
+      "telefono": "55667788",
+      "correo": "perro@pp.com",
+      "empresa": "peronia",
+      "id": 2
+    }
+  ]
+}
